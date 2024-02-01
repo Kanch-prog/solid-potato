@@ -1,0 +1,3 @@
+Name: Nimala	Total Marks: 267	Class: 0	Rank: 1
+Name: Kamala	Total Marks: 265	Class: 0	Rank: 2
+Name: Susila	Total Marks: 262	Class: 0	Rank: 3

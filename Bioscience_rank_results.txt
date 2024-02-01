@@ -1,0 +1,3 @@
+Name: Wimal	Total Marks: 258	Class: 0	Rank: 1
+Name: Kamal	Total Marks: 255	Class: 0	Rank: 2
+Name: Nimal	Total Marks: 250	Class: 0	Rank: 3
